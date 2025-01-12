@@ -1,7 +1,7 @@
 # Project Objective
-This project showcases the financial performance of business segments across countries and years. It uses metrics such as profit (analyzed by month and quarter), gross sales, discounts offered, and units sold to derive actionable insights. Attached is the pbit file
+This project showcases the financial performance of business segments across countries and years. It uses metrics such as profit (analyzed by month and quarter), gross sales, discounts offered, and units sold to derive actionable insights. Attached to the Repository, is the pbix file and a screenshot of the dashboard
 
-<img width="715" alt="image" src="https://github.com/user-attachments/assets/18f8a9e6-a369-4aaa-acaa-d915490eff3c" />
+<img width="715" alt="Dashboard snippet" src="https://github.com/user-attachments/assets/5a597726-41b8-4d25-9a02-f4fe59d1bd2c" />
 
 
 # Process:
